@@ -58,7 +58,7 @@ Ext.define("CrotusValet.view.Welcome", {
                             {
                                 xtype:"img",
                                 html: '<img src="resources/icons/icon1.png"><br/><br/>Hotel Information',
-                                itemId: "hotelInfoBtn",
+                                //itemId: "hotelInfoBtn",
                                 cls: 'innerBoxes'
                             }
                         ]
@@ -71,7 +71,7 @@ Ext.define("CrotusValet.view.Welcome", {
                             {
                                 xtype:"img",
                                 html: '<img src="resources/icons/icon2.png"><br/><br/>Concierge Services',
-                                itemId: "conciergeBtn",
+                                //itemId: "conciergeBtn",
                                 cls: 'innerBoxes'
                             }
                         ]
